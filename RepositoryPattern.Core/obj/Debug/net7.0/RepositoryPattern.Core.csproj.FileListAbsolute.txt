@@ -1,0 +1,11 @@
+D:\Algoriza Intern\ASP.Net Core Web API\RepositoryPattern\RepositoryPattern.Core\bin\Debug\net7.0\RepositoryPattern.Core.deps.json
+D:\Algoriza Intern\ASP.Net Core Web API\RepositoryPattern\RepositoryPattern.Core\bin\Debug\net7.0\RepositoryPattern.Core.dll
+D:\Algoriza Intern\ASP.Net Core Web API\RepositoryPattern\RepositoryPattern.Core\bin\Debug\net7.0\RepositoryPattern.Core.pdb
+D:\Algoriza Intern\ASP.Net Core Web API\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net7.0\RepositoryPattern.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Algoriza Intern\ASP.Net Core Web API\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net7.0\RepositoryPattern.Core.AssemblyInfoInputs.cache
+D:\Algoriza Intern\ASP.Net Core Web API\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net7.0\RepositoryPattern.Core.AssemblyInfo.cs
+D:\Algoriza Intern\ASP.Net Core Web API\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net7.0\RepositoryPattern.Core.csproj.CoreCompileInputs.cache
+D:\Algoriza Intern\ASP.Net Core Web API\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net7.0\RepositoryPattern.Core.dll
+D:\Algoriza Intern\ASP.Net Core Web API\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net7.0\refint\RepositoryPattern.Core.dll
+D:\Algoriza Intern\ASP.Net Core Web API\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net7.0\RepositoryPattern.Core.pdb
+D:\Algoriza Intern\ASP.Net Core Web API\RepositoryPattern\RepositoryPattern.Core\obj\Debug\net7.0\ref\RepositoryPattern.Core.dll
