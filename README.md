@@ -8,7 +8,11 @@ exposing consistent APIs for the rest of your app to access this data.
 
 ## Installation
 
+Clone the repository
+
+```bash
 git clone https://github.com/HMFathi10/RepositoryPattern.git
+```
 
 ## Features
 
